@@ -1,5 +1,7 @@
 # Typo-Typing-Simulator-System
 
+<image src="TYPO.jpg" width = "500">
+ 
 ### Description
 > Developed an all-around typing simulator game system that utilizes complex Python and Pygame modules. The game system is able to keep track of the user's high score, and WPM (words per minute) even after exiting. The user is also able to choose from a wide variety of maps and difficulties to assist while playing.
 
